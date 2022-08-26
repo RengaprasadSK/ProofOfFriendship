@@ -1,0 +1,1003 @@
+===================TEST 1==============================================
+
+
+The user named User7 would like to make a transaction!
+User7 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User7's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 1.0!
+6519e923d30780712ac41489a54742c059562b617352893e58ac8bafdf700012
+User2's age has increased to 1!
+16:27:57
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a New Validator.
+Transaction fee for new entity: low
+User9 has been chosen as validator for User6's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 1.0!
+24acaa5edf27fd55a949e0e4e957236450e1e286f1a51839d00a14402a2a6b13
+User9's age has increased to 1!
+16:27:57
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User4's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 1.0!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User3's age has increased to 1!
+16:27:57
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User2's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User8's age has increased to 1!
+16:27:57
+=======================================================
+The user named User7 would like to make a transaction!
+User7 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User7's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 1.0!
+6519e923d30780712ac41489a54742c059562b617352893e58ac8bafdf700012
+User2's age has increased to 2!
+16:27:58
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User2's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User8's age has increased to 2!
+16:27:58
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User1's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User8's age has increased to 3!
+16:27:58
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User9's transaction.
+User3 failed their validation!
+User3's trust has decreased to 0.5!
+User3's age has increased to 2!
+16:27:58
+=======================================================
+The user named User7 would like to make a transaction!
+User7 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User7's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 1.0!
+6519e923d30780712ac41489a54742c059562b617352893e58ac8bafdf700012
+User2's age has increased to 3!
+16:27:58
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User9's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User8's age has increased to 4!
+16:27:58
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User2's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User8's age has increased to 5!
+16:27:58
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User9 will use a New Validator!
+User6 has been chosen as validator for User9's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User6's age has increased to 1!
+16:27:59
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User2's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User8's age has increased to 6!
+16:27:59
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a New Validator.
+Transaction fee for new entity: low
+User10 has been chosen as validator for User3's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User10's age has increased to 1!
+16:27:59
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User2's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User8's age has increased to 7!
+16:27:59
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User7 has been chosen as validator for User2's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User7's age has increased to 1!
+16:27:59
+=======================================================    
+The user named User1 would like to make a transaction!     
+User1 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User1's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 1.0!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User8's age has increased to 8!
+16:27:59
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User10 has been chosen as validator for User3's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User10's age has increased to 2!
+16:27:59
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a New Validator.
+Transaction fee for new entity: low
+User4 has been chosen as validator for User8's transaction.
+User4 succeeded in their validation!
+User4's trust has increased to 1.0!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User4's age has increased to 1!
+16:27:59
+=======================================================
+The user named User7 would like to make a transaction!
+User7 has opted for a New Validator.
+Transaction fee for new entity: low
+User4 has been chosen as validator for User7's transaction.
+User4 failed their validation!
+User4's trust has decreased to 0.5!
+User4's age has increased to 2!
+16:28:00
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User9 has been chosen as validator for User6's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 1.0!
+24acaa5edf27fd55a949e0e4e957236450e1e286f1a51839d00a14402a2a6b13
+User9's age has increased to 2!
+16:28:00
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User4 will use a New Validator!
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 1.0!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 4!
+16:28:00
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User9 will use a New Validator!
+User2 has been chosen as validator for User9's transaction.
+User2 failed their validation!
+User2's trust has decreased to 0.8!
+User2's age has increased to 5!
+16:28:00
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User2's transaction.
+User5 failed their validation!
+User5's trust has decreased to 0.0!
+User5's age has increased to 1!
+16:28:00
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User4 will use a New Validator!
+User7 has been chosen as validator for User4's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User7's age has increased to 2!
+16:28:00
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User8 will use a New Validator!
+User1 has been chosen as validator for User8's transaction.
+User1 succeeded in their validation!
+User1's trust has increased to 1.0!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User1's age has increased to 1!
+16:28:00
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User4's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.5!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User5's age has increased to 2!
+16:28:00
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User4 has been chosen as validator for User5's transaction.
+User4 succeeded in their validation!
+User4's trust has increased to 0.6666666666666666!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User4's age has increased to 3!
+16:28:00
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User9 has been chosen as validator for User6's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 1.0!
+24acaa5edf27fd55a949e0e4e957236450e1e286f1a51839d00a14402a2a6b13
+User9's age has increased to 3!
+16:28:00
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User10 has been chosen as validator for User3's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User10's age has increased to 3!
+16:28:01
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User2 will use a New Validator!
+User9 has been chosen as validator for User2's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User9's age has increased to 4!
+16:28:01
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User9 has been chosen as validator for User6's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 1.0!
+24acaa5edf27fd55a949e0e4e957236450e1e286f1a51839d00a14402a2a6b13
+User9's age has increased to 5!
+16:28:01
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a New Validator.
+Transaction fee for new entity: low
+User9 has been chosen as validator for User8's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 1.0!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User9's age has increased to 6!
+16:28:01
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User8's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.6666666666666666!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User5's age has increased to 3!
+16:28:01
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User7 has been chosen as validator for User2's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User7's age has increased to 3!
+16:28:01
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User7 has been chosen as validator for User1's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User7's age has increased to 4!
+16:28:02
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User9 has been chosen as validator for User2's transaction.
+User9 failed their validation!
+User9's trust has decreased to 0.8571428571428571!
+User9's age has increased to 7!
+16:28:02
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User2 will use a New Validator!
+User6 has been chosen as validator for User2's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User6's age has increased to 2!
+16:28:02
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User7 has been chosen as validator for User1's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User7's age has increased to 5!
+16:28:02
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User1's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.6666666666666666!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User3's age has increased to 3!
+16:28:02
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User7 has been chosen as validator for User5's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User7's age has increased to 6!
+16:28:02
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User9's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.8333333333333334!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User2's age has increased to 6!
+16:28:02
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User1's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.75!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User3's age has increased to 4!
+16:28:02
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User6 has been chosen as validator for User2's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User6's age has increased to 3!
+16:28:03
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User10 has been chosen as validator for User3's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User10's age has increased to 4!
+16:28:03
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User4's transaction.
+User8 failed their validation!
+User8's trust has decreased to 0.8888888888888888!
+User8's age has increased to 9!
+16:28:03
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User10 has been chosen as validator for User3's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User10's age has increased to 5!
+16:28:03
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User2 will use a New Validator!
+User10 has been chosen as validator for User2's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User10's age has increased to 6!
+16:28:03
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User1 has been chosen as validator for User9's transaction.
+User1 succeeded in their validation!
+User1's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User1's age has increased to 2!
+16:28:03
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User8's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.8!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User3's age has increased to 5!
+16:28:03
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a Trusted Validator.
+No Trusted Validators found, price has been reduced! User8 will use a New Validator!
+User4 has been chosen as validator for User8's transaction.
+User4 succeeded in their validation!
+User4's trust has increased to 0.75!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User4's age has increased to 4!
+16:28:03
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.8571428571428571!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 7!
+16:28:04
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User1 has been chosen as validator for User5's transaction.
+User1 succeeded in their validation!
+User1's trust has increased to 1.0!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User1's age has increased to 3!
+16:28:04
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User3 has been chosen as validator for User8's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.8333333333333334!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User3's age has increased to 6!
+16:28:04
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User9's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.875!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User2's age has increased to 8!
+16:28:04
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User9 has been chosen as validator for User6's transaction.
+User9 failed their validation!
+User9's trust has decreased to 0.75!
+User9's age has increased to 8!
+16:28:04
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: high
+User4 has been chosen as validator for User5's transaction.
+User4 succeeded in their validation!
+User4's trust has increased to 0.8!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User4's age has increased to 5!
+16:28:04
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User1's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.75!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User5's age has increased to 4!
+16:28:04
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User1's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User8's age has increased to 10!
+16:28:05
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: high
+User4 has been chosen as validator for User5's transaction.
+User4 succeeded in their validation!
+User4's trust has increased to 0.8333333333333334!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User4's age has increased to 6!
+16:28:05
+=======================================================
+The user named User7 would like to make a transaction!
+User7 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User7's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9090909090909091!
+6519e923d30780712ac41489a54742c059562b617352893e58ac8bafdf700012
+User8's age has increased to 11!
+16:28:05
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User4's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9166666666666666!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User8's age has increased to 12!
+16:28:05
+=======================================================    
+The user named User2 would like to make a transaction!     
+User2 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User9 has been chosen as validator for User2's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 0.7777777777777778!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User9's age has increased to 9!
+16:28:05
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User1 has been chosen as validator for User9's transaction.
+User1 succeeded in their validation!
+User1's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User1's age has increased to 4!
+16:28:05
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User4's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9230769230769231!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User8's age has increased to 13!
+16:28:05
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User6 has been chosen as validator for User9's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User6's age has increased to 4!
+16:28:06
+=======================================================
+The user named User10 would like to make a transaction!
+User10 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User10's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.8!
+64385853a6888e4a513223f4150ea18baeec83ce866c6d831506a18e3e553a8e
+User5's age has increased to 5!
+16:28:06
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User1's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9285714285714286!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User8's age has increased to 14!
+16:28:06
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User3's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.8888888888888888!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User2's age has increased to 9!
+16:28:06
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User1 has been chosen as validator for User5's transaction.
+User1 succeeded in their validation!
+User1's trust has increased to 1.0!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User1's age has increased to 5!
+16:28:06
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a New Validator.
+Transaction fee for new entity: low
+User10 has been chosen as validator for User6's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+24acaa5edf27fd55a949e0e4e957236450e1e286f1a51839d00a14402a2a6b13
+User10's age has increased to 7!
+16:28:06
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 10!
+16:28:07
+=======================================================
+The user named User6 would like to make a transaction!
+User6 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User10 has been chosen as validator for User6's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+24acaa5edf27fd55a949e0e4e957236450e1e286f1a51839d00a14402a2a6b13
+User10's age has increased to 8!
+16:28:07
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9090909090909091!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 11!
+16:28:07
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User1's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9166666666666666!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User2's age has increased to 12!
+16:28:07
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9230769230769231!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 13!
+16:28:07
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User6 has been chosen as validator for User2's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User6's age has increased to 5!
+16:28:08
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User5's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9285714285714286!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User2's age has increased to 14!
+16:28:08
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User6 has been chosen as validator for User2's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User6's age has increased to 6!
+16:28:08
+=======================================================
+The user named User10 would like to make a transaction!
+User10 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User10's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.8571428571428571!
+64385853a6888e4a513223f4150ea18baeec83ce866c6d831506a18e3e553a8e
+User3's age has increased to 7!
+16:28:08
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User10 has been chosen as validator for User3's transaction.
+User10 succeeded in their validation!
+User10's trust has increased to 1.0!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User10's age has increased to 9!
+16:28:08
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: high
+User2 has been chosen as validator for User3's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9333333333333333!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User2's age has increased to 15!
+16:28:08
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User6 has been chosen as validator for User9's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User6's age has increased to 7!
+16:28:08
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User8's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9375!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User2's age has increased to 16!
+16:28:09
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User1's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9333333333333333!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User8's age has increased to 15!
+16:28:09
+=======================================================
+The user named User8 would like to make a transaction!
+User8 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User5 has been chosen as validator for User8's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.8333333333333334!
+f7c00a19360a82d2323b457c347e65f6cbd3eae0c24041d875796f989f0d9dde
+User5's age has increased to 6!
+16:28:09
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User5's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.875!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User3's age has increased to 8!
+16:28:09
+=======================================================
+The user named User3 would like to make a transaction!
+User3 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User3's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.8571428571428571!
+334bedbcd02e2aafea15f9f817d14e0ae4f3bbd31b996e18915338a5bc38e90e
+User5's age has increased to 7!
+16:28:09
+=======================================================
+The user named User7 would like to make a transaction!
+User7 has opted for a New Validator.
+Transaction fee for new entity: low
+User9 has been chosen as validator for User7's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 0.8!
+6519e923d30780712ac41489a54742c059562b617352893e58ac8bafdf700012
+User9's age has increased to 10!
+16:28:10
+=======================================================
+The user named User10 would like to make a transaction!
+User10 has opted for a New Validator.
+Transaction fee for new entity: low
+User8 has been chosen as validator for User10's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9375!
+64385853a6888e4a513223f4150ea18baeec83ce866c6d831506a18e3e553a8e
+User8's age has increased to 16!
+16:28:10
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User5 has been chosen as validator for User9's transaction.
+User5 succeeded in their validation!
+User5's trust has increased to 0.875!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User5's age has increased to 8!
+16:28:10
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a New Validator.
+Transaction fee for new entity: low
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9411764705882353!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 17!
+16:28:10
+=======================================================
+The user named User9 would like to make a transaction!
+User9 has opted for a New Validator.
+Transaction fee for new entity: low
+User7 has been chosen as validator for User9's transaction.
+User7 succeeded in their validation!
+User7's trust has increased to 1.0!
+8576581722b24ace05a8fed4a2a55b09190c3e6064668b87be085d1a6d80feb5
+User7's age has increased to 7!
+16:28:10
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User8 has been chosen as validator for User4's transaction.
+User8 succeeded in their validation!
+User8's trust has increased to 0.9411764705882353!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User8's age has increased to 17!
+16:28:10
+=======================================================
+The user named User5 would like to make a transaction!
+User5 has opted for a New Validator.
+Transaction fee for new entity: low
+User3 has been chosen as validator for User5's transaction.
+User3 succeeded in their validation!
+User3's trust has increased to 0.8888888888888888!
+d778b25a84d2b067f0fa1e21f3ed37bd0497bcbe709a794f48aaf159841b3fd4
+User3's age has increased to 9!
+16:28:11
+=======================================================
+The user named User2 would like to make a transaction!
+User2 has opted for a New Validator.
+Transaction fee for new entity: low
+User1 has been chosen as validator for User2's transaction.
+User1 succeeded in their validation!
+User1's trust has increased to 1.0!
+2bde2bb1c9b26276460d3d27c6497d6cbd0ce32c9095356767c068f056d70329
+User1's age has increased to 6!
+16:28:11
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9444444444444444!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 18!
+16:28:11
+=======================================================
+The user named User1 would like to make a transaction!
+User1 has opted for a New Validator.
+Transaction fee for new entity: low
+User9 has been chosen as validator for User1's transaction.
+User9 succeeded in their validation!
+User9's trust has increased to 0.8181818181818182!
+eb5fe49a614f0128364bf1b6b6cf90fc8dff5e158b50099808273239606fea98
+User9's age has increased to 11!
+16:28:11
+=======================================================
+The user named User7 would like to make a transaction!
+User7 has opted for a New Validator.
+Transaction fee for new entity: low
+User6 has been chosen as validator for User7's transaction.
+User6 succeeded in their validation!
+User6's trust has increased to 1.0!
+6519e923d30780712ac41489a54742c059562b617352893e58ac8bafdf700012
+User6's age has increased to 8!
+16:28:11
+=======================================================
+The user named User4 would like to make a transaction!
+User4 has opted for a Trusted Validator.
+Transaction fee for Trusted entity: medium
+User2 has been chosen as validator for User4's transaction.
+User2 succeeded in their validation!
+User2's trust has increased to 0.9473684210526315!
+570b7dba6b6a96d815afabc7e2214637c803b940733d79a589e21f8f7bea3944
+User2's age has increased to 19!
+16:28:11
+=======================================================
+
+
+
+START TIME: 16:27:57
+END TIME: 16:28:11
+TRANSACTIONS PROCESSED PER SECOND: 6.66
+
