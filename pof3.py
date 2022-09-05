@@ -6,7 +6,7 @@ from time import sleep
 
 class User:
 
-    ##DEFINES THE ATTRIBUTES OF THIS CLASS
+    ##DEFINES THE ATTRIBUTES OF THE USER CLASS
     def __init__(self, address, trust, age, location, friendslist, success, failure, energysource):
         self.address = address
         self.trust = trust
@@ -19,17 +19,7 @@ class User:
         friendslist = []
 
 
-    ##DETAILS FUNCTION IS JUST TO CHECK IF THE OBJECT CLASS WORKS PROPERLY
-    def details(self):
-        print (f"{self.address} has friends: {self.friendslist.address}!")
-        print (f"{self.address} has trust level {self.trust}!")
-
-    ##WRITE A FUNCTION FOR THE TRANSACTION PROCESS.
-    ##ONE USER MUST RANDOMLY BE CHOSEN AS A "TRANSACTOR" OF SORTS
-    # def transact(self, transactor, list):
-    #     transactor = random.choice(list)
-    #     return "{} wants to make a transaction!".format(transactor.address)
-
+    ##ONE USER MUST RANDOMLY BE CHOSEN AS A "TRANSACTOR"
     def transaction(self):
         return "{} wants to spend money!".format(self.address)
 
@@ -42,9 +32,10 @@ class User:
         if type == True and len(self.friendslist)>0:
             print(f"{self.address} has opted for a Trusted Validator.")
             ##POTENTVALIDATOR MEANS POTENTIAL VALIDATOR
+
             potentvalidator = random.choice(self.friendslist)
             
-            ##FOR HIGH AND MEDIUM TRUST, WHEN LOCATION IS GIVEN TOP PRIORITY, AND ENERGY SOURCE SECOND
+            ##FOR HIGH AND MEDIUM TRUST, WHEN ENERGY SOURCE IS GIVEN TOP PRIORITY, AND LOCATION SECOND
             if potentvalidator.location == self.location and potentvalidator.trust>=0.9 and potentvalidator.energysource == True:
                validator = potentvalidator
                print('Transaction fee for Trusted entity: high')
@@ -58,6 +49,8 @@ class User:
                 validator = potentvalidator
                 print('Transaction fee for Trusted entity: high')
             
+            ##FOR NON-RENEWABLE ENERGY SOURCES
+
             elif potentvalidator.location == self.location and potentvalidator.trust>=0.9 and potentvalidator.energysource == False:
                 validator = potentvalidator
                 print('Transaction fee for Trusted entity: medium')                
@@ -85,6 +78,7 @@ class User:
             print(f"{self.address} has opted for a New Validator.")
             validator = random.choice(list)
             print('Transaction fee for new entity: low')
+
             ##THE FOLLOWING IF STATEMENT IS TO MAINTAIN A FRIENDSLIST OF 3 PEOPLE. THIS IS A STATIC NUMBER, BUT IT CAN BE DYNAMIC
             if len(self.friendslist) == 3:
                 self.friendslist.pop(2)
@@ -93,21 +87,7 @@ class User:
                 self.friendslist.insert(0,validator)
         print(f"{validator.address} has been chosen as validator for {self.address}'s transaction.")
         validator.age += 1
-        
-        # if transactor.location == "HongKong" and validator.location == "India":
-        #     time.sleep(0.085)
-        # elif transactor.location == "India" and validator.location == "HongKong":
-        #     time.sleep(0.085)
-        # elif transactor.location == "India" and validator.location == "Japan":
-        #     time.sleep(0.123)
-        # elif transactor.location == "Japan" and validator.location == "India":
-        #     time.sleep(0.123)
-        # elif transactor.location == "Japan" and validator.location == "HongKong":
-        #     time.sleep(0.044)
-        # elif transactor.location == "HongKong" and validator.location == "Japan":
-        #     time.sleep(0.044)
-        # else:
-        #     time.sleep(0.010)
+
 
         ##THIS IS WHERE THE FAILURE OR SUCCESS OF A TRANSACTION MUST BE DETEREMINED
         ##FOR THE SAKE OF THIS MODEL, THE CHANCE OF FAILURE IS 1 IN 10
@@ -168,10 +148,6 @@ class User:
             
             User.mainchain.ledger.append(hashed_string)
 
-        def revealchain(self):
-
-            print(f"here are the blocks:")
-            print(f"{self.ledger}")
     
     mainchain = Blockchain([])
             
@@ -216,8 +192,6 @@ while i <= 100:
 
     transactor.pof()
 
-    #NOW TO CREATE A BLOCKCHAIN OBJECT CLASS, THIS IS THE FIRST STEP
-
     list.append(transactor)
 
     print("=======================================================")
@@ -225,8 +199,3 @@ while i <= 100:
     i += 1
 
 
-
-# User.Blockchain.revealchain(User.mainchain)
-
-##THIS LINE IS TO MAKE SURE OOP WORKS
-# print(user1.details())

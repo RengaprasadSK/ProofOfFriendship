@@ -1,0 +1,77 @@
+##DEFINING OBJECT CLASSES
+
+class User
+    def __init__
+        class parameters = (self, address, trust, age, location, friendslist, success, failure, energysource)
+    def transaction
+    def pof
+    
+user1 = User("User1", 0, 0, "Japan", [], 0, 0, True)
+user2 = User("User2", 0, 0, "Japan", [], 0, 0, False)
+user3 = User("User3", 0, 0, "Japan", [], 0, 0, False)
+user4 = User("User4", 0, 0, "India", [], 0, 0, False)
+user5 = User("User5", 0, 0, "India", [], 0, 0, True)
+user6 = User("User6", 0, 0, "India", [], 0, 0, True)
+user7 = User("User7", 0, 0, "India", [], 0, 0, False)
+user8 = User("User8", 0, 0, "HongKong", [], 0, 0, False)
+user9 = User("User9", 0, 0, "HongKong", [], 0, 0, True)
+user10 = User("User10", 0, 0, "HongKong", [], 0, 0, True)
+
+class Blockchain
+    def __init__
+        class parameters = (self, ledger)
+    def addblock
+
+
+##DEFINING poF FUNCTION
+
+def pof
+    type = random.choice([True,False])
+    if type is True and length of self.friendslist >0:
+        User has chosen a Trusted Validator
+        potentvalidator = randomchoice(self.friendslist)
+            considering potentvalidator's parameters, transaction fee is chosen
+            validator = potentvalidator
+            if potentvalidator.trust < 0.5:
+                User's transaction is shifted to New Validator
+    else:
+        User has chosen a New Validator
+        validator = random.choice(list)
+    validator is added to self.friendslist
+    Oldest entry in self.friendslist is removed
+
+    chanceoffailure = random.randint(0,9)
+    if chanceoffailure == 1:
+        validator fails their transaction
+        increment failure parameter by 1
+    else:
+        validator succeeds
+        increment success parameter by 1
+        
+        if transactor.location == validator.location:
+            sleep for 0 seconds
+        else:
+            based on transactor and validator location, sleep accordingly, to simualate network latency
+
+
+##DEFINING addblock function
+
+ def addblock
+    transaction_string = "self.address wants to invest 'x' tokens"
+    hash transaction_string with sha256
+    print(hash)
+
+##DEFINING PROCESS
+
+i=1
+while i<=n:
+
+    select transactor as random.choice(list)
+
+    list.remove(transactor)
+
+    use pof function for transactor
+
+    list.append(transactor)
+
+    increment i by 1
